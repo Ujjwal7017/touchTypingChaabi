@@ -41,6 +41,6 @@ Practice regularly to improve your touch typing skills and increase your speed.<
 
 Contributions to this touch typing web application are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue to discuss the proposed changes beforehand.
 
-#Live Link of the Project
+# Live Link of the Project
 
 https://ujjwal7017.github.io/touchTypingChaabi/
