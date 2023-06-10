@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/touchTypingChaabi/static/css/main.34cd7e0a.css",
+    "main.js": "/touchTypingChaabi/static/js/main.5f8d1dfe.js",
+    "index.html": "/touchTypingChaabi/index.html",
+    "main.34cd7e0a.css.map": "/touchTypingChaabi/static/css/main.34cd7e0a.css.map",
+    "main.5f8d1dfe.js.map": "/touchTypingChaabi/static/js/main.5f8d1dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34cd7e0a.css",
+    "static/js/main.5f8d1dfe.js"
+  ]
+}
